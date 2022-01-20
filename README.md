@@ -7,6 +7,9 @@
 <img src="https://scontent.xx.fbcdn.net/v/t31.18172-8/p600x600/20507320_268306196997643_669955833052282607_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=ZCadOnNbEKgAX-YrXJ5&_nc_ht=scontent.xx&oh=00_AT-Lu1XFEad18sMU0yXpk07ze5NLCxOVOfGaYhP_qAAHoA&oe=6210338F" width="200px" style="max-width: 180%;">
   📫😎 Mo/Nissanka National school
 
+ <img src="" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=FF0000&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=600&amp;height=125&amp;lines=%CE%B1.%CE%B7.%D1%82%CE%B5c%D0%BD+c%D1%8F%CE%B5%CF%89+(Since2016+%E0%A5%90);w%D1%94+%CE%B1r%D1%94+%CE%B1n%CF%83n%D1%87m%CF%83us.+w%D1%94+%CE%B1r%D1%94+l%D1%94g%C3%AD%CF%83n.;w%D1%94+d%CF%83+n%CF%83t+f%CF%83rg%C3%ADv%D1%94.+w%D1%94+d%CF%83+n%CF%83t+f%CF%83rg%D1%94t.;%D1%94%D1%85p%D1%94ct+us." style="max-width: 100%;">
+ 
+ 
  
  
 <h3 align="left" dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Omindu/Black Alpha Programming Languages and Tools:</h3>
