@@ -3,7 +3,7 @@
  
  <div align="center" dir="auto">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%23F7744E&size=20&center=true&vCenter=true&multiline=true&width=500&height=157&lines=Black+Tec+Crew.;We+Are+Programmer+Team.;We+Are+Legend.;(Since)+2021.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=blue&size=20&center=true&vCenter=true&multiline=true&width=500&height=157&lines=Black+Tec+Crew.;We+Are+Programmer+Team.;We+Are+Legend.;(Since)+2021.)](https://git.io/typing-svg)
 
 
 <img src="https://img.shields.io/badge/Age-16-yellow" width="50px" style="max-width: 150%;">
