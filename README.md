@@ -13,7 +13,6 @@
  
  <div align="center" dir="auto">
 <img alt="All Repositories" title="All Repositories" src="https://camo.githubusercontent.com/67d38e6ee6d50b774cdb3c670f8007932dc75d0c56f2806cdf008736b5123ff2/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f2d416c6c2532305265706f732d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7265706f" data-canonical-src="https://github.com/DarkKingbot?tab=repositories" style="max-width: 100%;">
-
 <div align="center" dir="auto">
  
 <h3 align="left" dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Omindu/Black Alpha Programming Languages and Tools:</h3>
