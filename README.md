@@ -10,6 +10,9 @@
 <div align="center" dir="auto">
 
 <img src="https://img.shields.io/badge/School-Mo/Nissanka%20National%20School-red" width="200px" style="max-width: 200%;">
+ 
+ <div align="center" dir="auto">
+<img alt="All Repositories" title="All Repositories" src="https://camo.githubusercontent.com/67d38e6ee6d50b774cdb3c670f8007932dc75d0c56f2806cdf008736b5123ff2/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f2d416c6c2532305265706f732d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7265706f" data-canonical-src="https://github.com/DarkKingbot?tab=repositories" style="max-width: 100%;">
 
 <div align="center" dir="auto">
  
@@ -34,7 +37,8 @@
 
 <h2 dir="auto"><a id="user-content--spotify-playing" class="anchor" aria-hidden="true" href="#-spotify-playing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png"🖥️</g-emoji> B.T.C Team </h2>
 
-
+ <div align="center" dir="auto">
+ 
 
 <img src="https://camo.githubusercontent.com/77c7a9857ff8281f486f4b6932d631b2f705898f826fd870e734bfcc4dd0d9d8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5576696e647542726f267468656d653d6461726b2673686f775f69636f6e733d74727565" alt="NOICE" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduBro&amp;theme=dark&amp;show_icons=true" style="max-width: 95%;">
 
