@@ -1,11 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=random&amp;text=Hi,%20I'm%20Black%20Alpha&amp;desc=Welcome%20To%20My%20Profile&amp;animation=twinkling&amp;fontSize=40&amp;fontAlign=50&amp;fontAlignY=20&amp;descSize=20&amp;descAlign=50&amp;height=180&amp;descAlignY=45" width="600px" style="max-width: 150%;">
 
-
-
-- 👋 Hi, 👨‍🎓I’m @Black Alpha <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px" style="max-width: 100%;">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%231A50F7&size=25&center=true&vCenter=true&width=500&lines=Hi)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%23F7744E&size=30&center=true&vCenter=true&multiline=true&width=500&height=157&lines=I'm+Black+Alpha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%23F7744E&size=30&center=true&vCenter=true&multiline=true&width=500&height=157&lines=Black+Tec+Crew.;We+Are+Programmer+Team.;We+Are+Legend.;(Since)+2021.)](https://git.io/typing-svg)
 
 
 <img src="https://img.shields.io/badge/Age-16-yellow" width="50px" style="max-width: 150%;">
@@ -37,10 +32,13 @@
 
 <h2 dir="auto"><a id="user-content--spotify-playing" class="anchor" aria-hidden="true" href="#-spotify-playing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png"🖥️</g-emoji> B.T.C Team </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%23F7744E&size=30&center=true&vCenter=true&multiline=true&width=500&height=157&lines=Black+Tec+Crew.;We+Are+Programmer+Team.;We+Are+Legend.;(Since)+2021.)](https://git.io/typing-svg)
+
 
 <img src="https://camo.githubusercontent.com/77c7a9857ff8281f486f4b6932d631b2f705898f826fd870e734bfcc4dd0d9d8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5576696e647542726f267468656d653d6461726b2673686f775f69636f6e733d74727565" alt="NOICE" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduBro&amp;theme=dark&amp;show_icons=true" style="max-width: 95%;">
 
-<h3>B.T.C Member</h3>
+<h2>B.T.C Member</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%23F70C45&size=25&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Black+Alpha;Rasah;Mr.Kaviya;Damith)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%23F70C45&size=25&center=true&vCenter=true&multiline=true&width=500&height=170&lines=Black+Alpha;Rasah;Mr.Kaviya;Damith;Dinuja)](https://git.io/typing-svg)
+
+
+
