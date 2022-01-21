@@ -1,16 +1,18 @@
 
 
 
-- 👋 Hi, 👨‍🎓I’m @Omindu Anjana <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px" style="max-width: 100%;">
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... 
-<center>
+- 👋 Hi, 👨‍🎓I’m @Black Alpha <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px" style="max-width: 100%;">
 
- <img src="https://scontent.xx.fbcdn.net/v/t31.18172-8/20451599_268306460330950_3508334025272661783_o.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ILElFEcMu4AAX9dXtLh&_nc_ht=scontent.xx&oh=00_AT9b-rqxN_hqlW5pAVMewgoDMEgLuWuxKiTLTjtdK-BT0Q&oe=62108A4D" width="150px" style="max-width: 150%;">
-</center><center>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%231A50F7&size=25&center=true&vCenter=true&width=500&lines=Hi)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%23F7744E&size=30&center=true&vCenter=true&multiline=true&width=500&height=157&lines=I'm+Black+Alpha)](https://git.io/typing-svg)
+
+
+<img src="https://img.shields.io/badge/Age-16-yellow" width="50px" style="max-width: 150%;">
+
+
 <img src="https://img.shields.io/badge/School-Mo/Nissanka%20Natinal%20School-red" width="200px" style="max-width: 300%;">
-</center>
-
+<img src="https://img.shields.io/badge/B.T.C%20Member-6-yellow" width="150px" style="max-width: 150%;">
 
 
  
@@ -38,7 +40,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%23F7744E&size=30&center=true&vCenter=true&multiline=true&width=500&height=157&lines=Black+Tec+Crew.;We+Are+Programmer+Team.;We+Are+Legend.;(Since)+2021.)](https://git.io/typing-svg)
 
 <img src="https://camo.githubusercontent.com/77c7a9857ff8281f486f4b6932d631b2f705898f826fd870e734bfcc4dd0d9d8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5576696e647542726f267468656d653d6461726b2673686f775f69636f6e733d74727565" alt="NOICE" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduBro&amp;theme=dark&amp;show_icons=true" style="max-width: 95%;">
-<!---
-DarkKingbot/DarkKingbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h3>B.T.C Member</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%23F70C45&size=25&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Black+Alpha;Rasah;Mr.Kaviya;Damith)](https://git.io/typing-svg)
