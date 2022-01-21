@@ -3,13 +3,13 @@
 
 - 👋 Hi, 👨‍🎓I’m @Omindu Anjana <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px" style="max-width: 100%;">
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 
-- 💞️<img src="https://camo.githubusercontent.com/e1a6fc084d4a0945d8930d7f6d75b23a3b60d49f187806e7b9b3c90ce139c8c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4167652d31352d79656c6c6f77" alt="age" data-canonical-src="https://img.shields.io/badge/Age-16-yellow" style="max-width: 100%;">
+- 🌱 I’m currently learning ... 
+<center>
 
  <img src="https://scontent.xx.fbcdn.net/v/t31.18172-8/20451599_268306460330950_3508334025272661783_o.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ILElFEcMu4AAX9dXtLh&_nc_ht=scontent.xx&oh=00_AT9b-rqxN_hqlW5pAVMewgoDMEgLuWuxKiTLTjtdK-BT0Q&oe=62108A4D" width="150px" style="max-width: 150%;">
-
-  📫😎 Mo/Nissanka National school
+</center><center>
+<img src="https://img.shields.io/badge/School-Mo/Nissanka%20Natinal%20School-red" width="200px" style="max-width: 300%;">
+</center>
 
 
 
