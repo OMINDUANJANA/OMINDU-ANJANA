@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=random&amp;text=Hi,%20I'm%20Black%20Alpha&amp;desc=Welcome%20To%20My%20Profile&amp;animation=twinkling&amp;fontSize=40&amp;fontAlign=50&amp;fontAlignY=20&amp;descSize=20&amp;descAlign=50&amp;height=180&amp;descAlignY=45" width="600px" style="max-width: 150%;">
-
+<
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%23F7744E&size=30&center=true&vCenter=true&multiline=true&width=500&height=157&lines=Black+Tec+Crew.;We+Are+Programmer+Team.;We+Are+Legend.;(Since)+2021.)](https://git.io/typing-svg)
 
 
