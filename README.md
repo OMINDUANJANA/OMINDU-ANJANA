@@ -43,7 +43,6 @@
 
 <h2>B.T.C Member</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elephant&color=%23F70C45&size=25&center=true&vCenter=true&multiline=true&width=500&height=170&lines=Black+Alpha;Rasah;Mr.Kaviya;Damith;Dinuja)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77676&center=true&vCenter=true&multiline=true&width=500&height=135&lines=Black+Alpha;Razah;Mr.Kaviya;Damith;Dinuja)](https://git.io/typing-svg)
 
 
