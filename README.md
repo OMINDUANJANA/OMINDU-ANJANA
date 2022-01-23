@@ -2,7 +2,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://capsule-render.vercel.app/api?type=waving&amp;color=random&amp;text=Hi,%20I'm%20Black%20Alpha&amp;desc=Welcome%20To%20My%20Profile&amp;animation=twinkling&amp;fontSize=40&amp;fontAlign=50&amp;fontAlignY=20&amp;descSize=20&amp;descAlign=50&amp;height=180&amp;descAlignY=45"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=random&amp;text=Hi,%20I'm%20Black%20Alpha&amp;desc=Welcome%20To%20My%20Profile&amp;animation=twinkling&amp;fontSize=40&amp;fontAlign=50&amp;fontAlignY=20&amp;descSize=20&amp;descAlign=50&amp;height=180&amp;descAlignY=45" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=random&amp;text=Hi,%20I'm%20Black%20Amda&amp;desc=Welcome%20To%20My%20Profile&amp;animation=twinkling&amp;fontSize=40&amp;fontAlign=50&amp;fontAlignY=20&amp;descSize=20&amp;descAlign=50&amp;height=180&amp;descAlignY=45" style="max-width: 100%;"></a></p>
  
  <div align="center" dir="auto">
- <img src="https://avatars.githubusercontent.com/u/93399269?v=4" width="250px" style="max-width: 150%;">
+ <img src="https://github.com/DarkKingbot/smart-help-bot-wa-05/blob/main/my-gif.gif" width="300px" style="max-width: 200%;">
  
  <div align="center" dir="auto">
  
